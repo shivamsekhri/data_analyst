@@ -14,3 +14,5 @@ Stacked column charts visually display the composition of a whole across categor
 
 Bubble Chart:
 Bubble charts use circles to represent data points in a two-dimensional graph, with bubble size indicating a third variable. Dynamic and versatile, they visually convey complex relationships between variables, making them ideal for identifying correlations and outliers.
+
+Any product category or coupon number can be selected and the dashboard automatically updates all charts to focus on the data corresonding to that particular category or coupon.
