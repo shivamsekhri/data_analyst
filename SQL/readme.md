@@ -1,6 +1,6 @@
 # Sales Data Analysis with SQL
 
-Welcome to the Sales Data Analysis project! This repository contains a comprehensive SQL analysis of sales data. The dataset includes various attributes related to orders, customers, and products. In this README, you will find a dataset description, a list of 30 meaningful questions, and their SQL-based answers.
+Welcome to the Sales Data Analysis project! This repository contains a comprehensive SQL analysis of sales data. The analysis was performed on Oracle sql developer and the dataset was downloaded from kaggle. The dataset includes various attributes related to orders, customers, and products. In this README, you will find a dataset description, a list of 30 meaningful questions, and their SQL-based answers.
 
 ## Dataset Description
 
