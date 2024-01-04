@@ -6,62 +6,34 @@ Welcome to the Sales Data Analysis project! This repository contains a comprehen
 
 The dataset used for this analysis includes the following attributes:
 
-- ORDERNUMBER
-- QUANTITYORDERED
-- PRICEEACH
-- ORDERLINENUMBER
+- ORDER_NUMBER
+- QUANTITY_ORDERED
+- PRICE_EACH
+- ORDER_LINE_NUMBER
 - SALES
-- ORDERDATE
+- ORDER_DATE
 - STATUS
 - QTR_ID
 - MONTH_ID
 - YEAR_ID
-- PRODUCTLINE
+- PRODUCT_LINE
 - MSRP
-- PRODUCTCODE
-- CUSTOMERNAME
+- PRODUCT_CODE
+- CUSTOMER_NAME
 - PHONE
-- ADDRESSLINE1
-- ADDRESSLINE2
+- ADDRESS_LINE1
+- ADDRESS_LINE2
 - CITY
 - STATE
-- POSTALCODE
+- POSTAL_CODE
 - COUNTRY
 - TERRITORY
-- CONTACTLASTNAME
-- CONTACTFIRSTNAME
+- CONTACT_LAST_NAME
+- CONTACT_FIRST_NAME
 - DEALSIZE
 
 ## List of Questions and Answers
 
 Here are 30 meaningful questions along with their SQL-based answers. These questions cover a wide range of sales-related analysis tasks.
 
-## How to Use
 
-1. Clone or download this repository to your local machine.
-
-2. Open your preferred SQL database management tool (e.g., MySQL, PostgreSQL, SQLite).
-
-3. Import the dataset (`sales_data.sql`) into your database.
-
-4. Use the provided SQL questions and answers to conduct your analysis.
-
-5. Modify or extend the queries to suit your specific analysis requirements.
-
-## Contributing
-
-If you have additional analysis questions or improvements to existing queries, please consider contributing to this project. Submit a pull request to share your insights with the community.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE). You are free to use and modify the dataset and analysis queries for your own data analysis projects.
-
-## Author
-
-- Hiran Joseph
-
-Enjoy exploring the world of sales data analysis with SQL!
-
----
-
-Replace `[Your Name]` in the README with your name or the name of the primary contributor to the project. Customize and expand this README as needed to provide specific details about your analysis, dataset, and any other relevant information.
