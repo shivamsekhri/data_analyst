@@ -1,5 +1,5 @@
 # IBM Cognos Product Performance Dashboard
-For this dashboard the data provided in CustomerLoyaltyProgram_Full.csv was used. The data has information about customer puchases for different products in different geographies after several marketing campaigns. The data was analysed to understand the difference in product sales for indivisual regions and coupons. 
+This interactive dashboard was built using the data provided in CustomerLoyaltyProgram_Full.csv. The data has information about customer purchases for different products in different geographies after several marketing campaigns were conducted. The data was analysed to understand the difference in product sales for indivisual regions and coupons. 
 
 The Dashboard contains four different charts:
 
