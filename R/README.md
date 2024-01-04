@@ -1,1 +1,2 @@
 # MPG AND IRIS Dataset Analysis in R Studio
+In this folder I have provided some intriguing visualization that i created on R Studio using mpg and iris datasets which come with R studio. I used R code and some sql code using the SQLDF package to prepare data for visualizations which were build using the GGPLOT2 package. The mpg and iris analysis.R file contains the code and the visualisations are provided separately in the mpg and iris visulaizations.docx file.
