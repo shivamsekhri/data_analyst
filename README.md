@@ -1,6 +1,6 @@
 Welcome to my Data Analyst Portfolio!
 
-I am a data analytics student with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, R, SQL, Excel, IBM Cognos , and SPSS Modeler, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
+I am a data analytics student with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, R, SQL, Excel, IBM Cognos, and SPSS Modeler, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
 
 In this portfolio, I have included a variety of projects that showcase my data analytics skills. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action.
 
