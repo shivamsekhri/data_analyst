@@ -83,7 +83,7 @@ FROM sales_internal
 GROUP BY PRODUCT_LINE, YEAR_ID;
 
 --11.What is the average quantity ordered per product line and quarter (QTR_ID)?
-SELECT PRODUCT_LINE, QTR_ID, AVG(QUANTITY_ORDERED) AS AVG_QUANTITY_ORDERED
+SELECT PRODUCT_LINE, QTR_ID, ROUND(AVG(QUANTITY_ORDERED),2) AS AVG_QUANTITY_ORDERED
 FROM sales_internal
 GROUP BY PRODUCT_LINE, QTR_ID;
 
@@ -91,14 +91,14 @@ GROUP BY PRODUCT_LINE, QTR_ID;
 
 --12.What is the average sales revenue per month (MONTH_ID) for each year and product line?
 --Which product line has the highest total sales revenue in each country?
-SELECT YEAR_ID, PRODUCT_LINE, MONTH_ID, AVG(SALES) AS AVG_REVENUE_PER_MONTH
+SELECT YEAR_ID, PRODUCT_LINE, MONTH_ID, ROUND(AVG(SALES),2) AS AVG_REVENUE_PER_MONTH
 FROM sales_internal
 GROUP BY YEAR_ID, PRODUCT_LINE, MONTH_ID;
 
 -- 13.Which customers have placed orders in multiple countries,
 --and how many orders have they placed in each country?
-SELECT CUSTOMERNAME, COUNTRY, COUNT(DISTINCT ORDERNUMBER) AS NUM_ORDERS
-FROM sales_internal;
+SELECT CUSTOMER_NAME, COUNTRY, COUNT(DISTINCT ORDER_NUMBER) AS NUM_ORDERS
+FROM sales_internal GROUP BY CUSTOMER_NAME, COUNTRY ;
 
 --14.What is the total sales revenue for each product line and quarter (QTR_ID)
 --for a specific year (e.g., 2005)?
@@ -108,7 +108,7 @@ WHERE YEAR_ID = 2005
 GROUP BY YEAR_ID, PRODUCT_LINE, QTR_ID;
 
 --15.Which product line has the highest average price per unit (PRICE_EACH) for a specific year (e.g., 2004)?
-SELECT YEAR_ID, PRODUCT_LINE, AVG(PRICE_EACH) AS AVG_PRICE_PER_UNIT
+SELECT YEAR_ID, PRODUCT_LINE, ROUND(AVG(PRICE_EACH),3) AS AVG_PRICE_PER_UNIT
 FROM sales_internal
 WHERE YEAR_ID = 2004
 GROUP BY YEAR_ID, PRODUCT_LINE
@@ -128,7 +128,7 @@ SELECT MAX(SALES) AS HIGHEST_REVENUE
 FROM sales_internal;
 
 --19.What is the average manufacturer's suggested retail price (MSRP) per product line?**
-SELECT PRODUCT_LINE, AVG(MSRP) AS AVG_MSRP
+SELECT PRODUCT_LINE, ROUND(AVG(MSRP),2) AS AVG_MSRP
 FROM sales_internal
 GROUP BY PRODUCT_LINE;
 
