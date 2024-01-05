@@ -29,7 +29,7 @@ The dataset used for this analysis includes the following attributes:
 - TERRITORY
 - CONTACT_LAST_NAME
 - CONTACT_FIRST_NAME
-- DEALSIZE
+- DEAL_SIZE
 
 ## List of Questions and Answers
 
