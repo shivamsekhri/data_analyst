@@ -90,7 +90,6 @@ GROUP BY PRODUCT_LINE, QTR_ID;
 --GROUPBY
 
 --12.What is the average sales revenue per month (MONTH_ID) for each year and product line?
---Which product line has the highest total sales revenue in each country?
 SELECT YEAR_ID, PRODUCT_LINE, MONTH_ID, ROUND(AVG(SALES),2) AS AVG_REVENUE_PER_MONTH
 FROM sales_internal
 GROUP BY YEAR_ID, PRODUCT_LINE, MONTH_ID;
