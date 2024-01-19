@@ -33,7 +33,7 @@ The dataset used for this analysis includes the following attributes:
 
 ## List of Questions and Answers
 
-The SQL file has a list of 30 meaningful questions included as comments and thier answers can be seen in the query outputs. These questions cover a wide range of sales-related analysis tasks.
+The SQL file has a list of more than 30 meaningful questions included as comments and thier answers can be seen in the query outputs. These questions cover a wide range of sales-related analysis tasks.
 
 
 
