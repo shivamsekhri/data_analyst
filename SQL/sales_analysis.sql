@@ -244,3 +244,4 @@ FROM sales_internal;
 
 
 
+SELECT sys_context('userenv', 'instance_name') AS instance_name FROM dual;
