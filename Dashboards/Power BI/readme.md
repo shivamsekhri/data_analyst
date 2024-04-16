@@ -1,5 +1,5 @@
-TTC Bus Delay Mitigation Project
-Overview:
+# TTC Bus Delay Mitigation Project
+## Overview:
 The TTC Bus Delay Mitigation Project was a data-driven initiative aimed at identifying and addressing 
 operational challenges within the Toronto Transit Commission (TTC) bus network.
 Leveraging advanced data analytics techniques, the project aimed to reduce delays,
