@@ -8,7 +8,8 @@ Performance Analysis: Analyzed marketing data by platform, subchannel, and audie
 Data Insights: Utilized Excel pivot tables and calculated fields to extract actionable insights,
 enabling optimization of marketing strategies.
 
-## Visualizations: Created stacked bar and pie charts in Excel to represent campaign metrics,
+## Visualizations:
+Created stacked bar and pie charts in Excel to represent campaign metrics,
 such as CPC (Cost Per Click), CPA (Cost Per Acquisition), and ad spend, for easier interpretation of results.
 
 ## Tools Used
