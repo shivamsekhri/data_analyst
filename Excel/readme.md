@@ -19,7 +19,7 @@ enabling optimization of marketing strategies.
 
 # Visualizations:
 Created stacked bar and pie charts in Excel to represent campaign metrics,
-such as CPC (Cost Per Click), CPA (Cost Per Acquisition), and ad spend, for easier interpretation of results.
+such as CPC (Cost Per Click), CPA (Cost Per Acquisition), Conversion rate and Ad spend, for easier interpretation of results.
 
 # Tools Used
 Microsoft Excel: Advanced data analysis with pivot tables, calculated fields, and visualizations.
