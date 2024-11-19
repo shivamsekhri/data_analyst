@@ -1,4 +1,6 @@
 <h1 align="center"> Marketing Data Analysis Project </h1>
+![image](https://github.com/user-attachments/assets/1ea2a1c6-8454-4f2e-8caf-3297078cf497)
+
 This project focuses on analyzing marketing performance data from Google and Facebook to extract meaningful insights.
 The analysis aims to identify trends, evaluate campaign effectiveness, and support data-driven decision-making
 through detailed performance segmentation.
