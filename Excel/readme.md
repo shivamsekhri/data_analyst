@@ -3,6 +3,7 @@ This project focuses on analyzing marketing performance data from Google and Fac
 The analysis aims to identify trends, evaluate campaign effectiveness, and support data-driven decision-making
 through detailed performance segmentation.
 
+
 ## Features
 Performance Analysis: Analyzed marketing data by platform, subchannel, and audience age group to identify key performance drivers.
 Data Insights: Utilized Excel pivot tables and calculated fields to extract actionable insights,
