@@ -1,9 +1,13 @@
 # Welcome to my Data Analyst Portfolio!
+Welcome to My Data Analytics Portfolio!
+I'm Shivam Sekhri, a Senior Analyst in Pricing & Promotions at Loblaw Companies Limited, with a background in business analytics, market research, and data visualization.
 
-I am a data analyst with a strong proficiency in utilizing various tools and technologies to collect, organize, and analyze data, driving strategic business decisions. My expertise includes Python, R, SQL, Excel, IBM Cognos, and SPSS Modeler, coupled with a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, and statistical analysis.
+My professional experience focuses on using data to support business decisions. At Loblaw, I work on promotional strategy, competitive analysis, and profitability modeling, helping identify opportunities to improve promotional performance and drive business growth. Previously, I worked in data analytics within the healthcare technology sector, analyzing market trends and consumer insights using Python and Power BI.
 
-This portfolio showcases a range of projects that highlight my ability to analyze and present data in a clear and visually compelling manner, making it accessible and actionable for decision-makers. My work demonstrates a consistent ability to extract valuable insights from large and complex data sets, as well as to combine data from multiple sources to create a comprehensive view.
+I have hands-on experience with SQL, Python, Power BI, Excel, and Tableau, along with a strong foundation in data analysis, statistical techniques, and business intelligence. My academic background in Business Insights and Analytics has further strengthened my ability to approach business challenges with an analytical mindset.
 
-Beyond technical skills, I bring a strategic mindset and strong critical thinking abilities to every project, ensuring that my analyses are not only accurate but also aligned with business goals. My focus is on delivering data-driven recommendations that translate into real-world impact.
+This portfolio features projects involving sales analytics, marketing performance, and data visualization. Each project demonstrates my approach to working with data, identifying meaningful patterns, and translating findings into practical insights.
 
-I am confident that my data analytics skills and experience position me as a strong candidate for roles in this field. I welcome the opportunity to discuss my qualifications further and look forward to connecting with you.
+I'm always interested in expanding my technical knowledge, exploring new analytical approaches, and connecting with professionals in the data and business analytics space.
+
+Connect with me: LinkedIn
