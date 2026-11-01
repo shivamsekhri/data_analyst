@@ -10,4 +10,4 @@ This portfolio features projects involving sales analytics, marketing performanc
 
 I'm always interested in expanding my technical knowledge, exploring new analytical approaches, and connecting with professionals in the data and business analytics space.
 
-Connect with me: LinkedIn
+[Connect with me on LinkedIn](https://www.linkedin.com/in/shivamsekhri/)
