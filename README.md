@@ -1,5 +1,5 @@
 # Welcome to my Portfolio!
-Welcome to My Data Analytics Portfolio!
+
 I'm Shivam Sekhri, a Senior Analyst in Pricing & Promotions at Loblaw Companies Limited, with a background in business analytics, market research, and data visualization.
 
 My professional experience focuses on using data to support business decisions. At Loblaw, I work on promotional strategy, competitive analysis, and profitability modeling, helping identify opportunities to improve promotional performance and drive business growth. Previously, I worked in data analytics within the healthcare technology sector, analyzing market trends and consumer insights using Python and Power BI.
