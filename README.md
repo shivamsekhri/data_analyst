@@ -1,4 +1,4 @@
-# Welcome to my Data Analyst Portfolio!
+# Welcome to my Portfolio!
 Welcome to My Data Analytics Portfolio!
 I'm Shivam Sekhri, a Senior Analyst in Pricing & Promotions at Loblaw Companies Limited, with a background in business analytics, market research, and data visualization.
 
